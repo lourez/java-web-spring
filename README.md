@@ -4,7 +4,7 @@
 - Lógica de programação Java
 - Programação orientada a objetos
 - Ferramentas
-  - Spring Tool Suite (STS)
+  - Intellij
   - Postman
 
 ### Objetivos
